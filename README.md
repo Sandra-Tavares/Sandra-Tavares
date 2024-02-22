@@ -1,7 +1,7 @@
 # Hi there 👋
 
-Eu sou a Sandra, estou iniciando minha caminhada na área de programação com o curso de programação em JavaScript na Cubos Academy.
-Até o momento desenvolvemos o aprendizado em objetos, funções, metodos, API´s, programação assyncrona e persistência de dados.
+Eu sou a Sandra, estou iniciando minha caminhada na área de programação em busca da primeira oportunidade, atualmente estou estudando Python, Java e SQL no Projeto PretaTech da entidade Educafro, este projeto está sendo patrocinado pela empresa ADP.
+De Agosto a Dezembro de 2023, participei de um bootcamp através da Cubos Academy onde obtive conhecimento sobre objetos, funções, metodos, API´s, programação assyncrona e persistência de dados.
 
 
 ### Techs:
