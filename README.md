@@ -17,3 +17,5 @@ De Agosto a Dezembro de 2023, participei de um bootcamp através da Cubos Academ
 [Linkedin](https://www.linkedin.com/in/sandra-tavares-14037819b)
 
 ![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandra-Tavares&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
+
+![Sandra-Tavares GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
