@@ -1,7 +1,6 @@
 # Hi there 👋
 
-Eu sou a Sandra, estou iniciando minha caminhada na área de programação em busca da primeira oportunidade, atualmente estou estudando Python, Java e SQL no Projeto PretaTech da entidade Educafro, este projeto está sendo patrocinado pela empresa ADP.
-De Agosto a Dezembro de 2023, participei de um bootcamp através da Cubos Academy onde obtive conhecimento sobre objetos, funções, metodos, API´s, programação assyncrona e persistência de dados.
+Eu sou a Sandra, recem-formanda em ciência de dados pela faculdade descomplida agora em junho de 2026, atualmente estudando IA e automação na REPROGRAMA, onde já desenvolvi algumas automações, dde julho de 2024 a Julho de 2026 atuei como estagiária de dados  no Ita_unibanco, trabalhando com mapeamento de dados, criação e modernização de dashboards, utilizando SQL, excell, PowerPoint, Quicksight, S3...
 
 
 ### Techs:
